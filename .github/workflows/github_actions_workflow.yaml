@@ -1,7 +1,6 @@
- name: CI/CD workflow for Maven Build and Sonar Code scan
+name: CI/CD workflow for Maven Build and Sonar Code scan
 
-
- name: My First GitHub Actions
+name: My First GitHub Actions
  
 on: [push]
  
