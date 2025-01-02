@@ -52,9 +52,9 @@ jobs:
 
         args: >
 
-          -Dsonar.organization=swathisony239
+          -Dsonar.organization=my-org
 
-          -Dsonar.projectKey=SonarCloudCodeAnalyisis
+          -Dsonar.projectKey=my-Java-web-app
 
       env:
 
